@@ -1,0 +1,12 @@
+----------- City Map------------
+Thokar -> Gulberg(2) 
+Gulberg -> AliTown(5) Halloki(10) Thokar(2) 
+AliTown -> Bahria(4) Cantt(2) Gulberg(5) 
+Cantt -> AliTown(2) Bahria(6) EdenGarden(10) DHA(8) 
+Ichra -> EdenGarden(2) FaisalTown(3) Halloki(4) 
+EdenGarden -> Cantt(10) DHA(3) FaisalTown(1) Halloki(4) Ichra(2) 
+DHA -> Bahria(5) Cantt(8) JoharTown(6) EdenGarden(3) FaisalTown(2) 
+JoharTown -> DHA(6) FaisalTown(5) 
+Bahria -> AliTown(4) DHA(5) Cantt(6) 
+FaisalTown -> DHA(2) EdenGarden(1) JoharTown(5) Ichra(3) 
+Halloki -> EdenGarden(4) Gulberg(10) Ichra(4) 
